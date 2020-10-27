@@ -1,0 +1,1 @@
+1. This is duplicated code. This can be solved by creating a function to carry out these lines.

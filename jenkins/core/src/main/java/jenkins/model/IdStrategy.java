@@ -29,7 +29,7 @@ import hudson.ExtensionPoint;
 import hudson.model.AbstractDescribableImpl;
 import hudson.util.CaseInsensitiveComparator;
 import org.apache.commons.lang.StringUtils;
-import org.junit.Test;
+//import org.junit.Test;
 import org.kohsuke.stapler.DataBoundConstructor;
 
 import javax.annotation.Nonnull;

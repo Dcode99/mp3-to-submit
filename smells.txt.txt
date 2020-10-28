@@ -1,3 +1,8 @@
 1. This is duplicated code. This can be solved by creating a function to carry out these lines.
 3. This is feature envy. This can be fixed by moving it to the Jenkins class.
-4. This is also duplicated code, the same expression is duplicated 4 times in a row. This can be solved by looping it, which also requires the break statement to be changed in order to make sure it breaks from the outer loop.
+4. This is also duplicated code, the same expression is duplicated 4 times in a row. 
+This can be solved by looping it, which also requires the break statement to be changed in order 
+to make sure it breaks from the outer loop.
+6. I can't find any code in the xml file duplicated 8 times or more that isn't under the target directory which is
+listed as something we shouldn't be refactoring for this question. If I had found duplicated code here I could have made a global
+method to implement the task and use that in each file where the duplicated code was used.
